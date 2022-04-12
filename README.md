@@ -1,2 +1,4 @@
-# clean-code
-Learning how to write readable, understandable and therefore maintainable code
+# Clear Code 
+
+Aprender a escrever código legível, compreensível e, portanto, de fácil manutenção. 
+
